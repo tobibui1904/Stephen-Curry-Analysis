@@ -1,2 +1,1 @@
-# Streamlit-data-science-website
-http://132.162.114.104:8501
+This is a data science website using streamlit API for deployment. Main language is Python and the main purpose is to analyze about Stephen Curry's shooting ability and how he can do those amazing shots from a far distance
